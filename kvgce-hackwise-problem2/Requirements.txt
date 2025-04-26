@@ -1,4 +1,7 @@
+"For running the code Jupyter notebook is Essestial."
 •Jupyter Notebook: Used as the primary development and execution environment, allowing step-by-step testing, visualization, and debugging.
+
+"Libraries needed to be installed "
 •Libraries:
 math: For distance calculations.
 numpy: For efficient array and numerical operations.
