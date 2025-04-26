@@ -1,0 +1,5 @@
+•Jupyter Notebook: Used as the primary development and execution environment, allowing step-by-step testing, visualization, and debugging.
+•Libraries:
+math: For distance calculations.
+numpy: For efficient array and numerical operations.
+plotly.graph_objects: For interactive 3D animation and visualization of asteroid movement.
